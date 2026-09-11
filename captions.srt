@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:03,000
+Stock Market Kya Hai?
+
+2
+00:00:03,000 --> 00:00:12,000
+Hisse = Company ka ownership. Jab aap share kharidte ho, aap chhote owner ban jaate ho.
+
+3
+00:00:12,000 --> 00:00:25,000
+Price demand-supply, company ki kamai aur news se badhti ya girti hai. Achha perform → price ↑; kharab → price ↓.
+
+4
+00:00:25,000 --> 00:00:35,000
+Risk vs Reward: Profit ho sakta hai, lekin loss ka bhi chance. Research + long-term socho.
+
+5
+00:00:35,000 --> 00:00:45,000
+Example: ₹100 → ₹150 = profit. Tip: SIP + diversify karen.
+
+6
+00:00:45,000 --> 00:00:55,000
+Follow for more! Like & Share.
